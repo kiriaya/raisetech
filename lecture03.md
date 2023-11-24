@@ -6,7 +6,7 @@
 
 ## APサーバーを終了させた時
 * 再アクセス不可
-![noappi](/img3/noappi.png)
+![noappi](/img3/noapp.png)
 * ctrl+Cで終了してbin/cloud9_devで再起動した
 
 ## DBサーバーの名前:mysql
