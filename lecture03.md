@@ -11,7 +11,7 @@
 
 ## DBサーバーの名前:mysql
 ## DBサーバーのバージョン:8.0.35
-![mysqlver](/img3/mysql.jpg)
+![mysqlver](/img3/mysqlve.jpg)
 
 ## DBサーバーを終了させた時
 * 再アクセス不可
